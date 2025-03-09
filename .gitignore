@@ -1,2 +1,4 @@
 .vscode
 .beej-network
+
+**/__pycache__/
